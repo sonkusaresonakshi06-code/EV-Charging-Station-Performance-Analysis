@@ -181,26 +181,25 @@ These filters allow users to analyse station performance and charging demand bas
 
 ### Executive Overview
 
-![Executive Overview](EV-Charging-Dashboard/Executive-Overview.png)
+![Executive Overview](Executive-Overview.png)
 
 ### Station Performance & Charging Analysis
 
-![Station Performance](EV-Charging-Dashboard/Station-Performance.png)
+![Station Performance](Station-Performance.png)
 
 ### Time & Demand Analysis
 
-![Time and Demand Analysis](EV-Charging-Dashboard/Time-and-Demand-Analysis.png)
+![Time and Demand Analysis](Time-and-Demand-Analysis.png)
 
 ### Pricing Analysis
 
-![Pricing Analysis](EV-Charging-Dashboard/Pricing-Analysis.png)
+![Pricing Analysis](Pricing-Analysis.png)
 
 ### Recommendations & Key Insights
 
-![Recommendations](EV-Charging-Dashboard/Recommendations.png)
+![Recommendations](Recommendations.png)
 
 ---
-
 ## 9. 💡 Business / Analytical Value
 
 This dashboard helps convert raw EV charging station data into meaningful visual insights.
